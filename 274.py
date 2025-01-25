@@ -1,3 +1,4 @@
+# Игра "Виселица", код создан во время обучения
 from random import shuffle
 
 class Card:
